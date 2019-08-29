@@ -1,3 +1,5 @@
+Implementation of a replicated service using State Machine Replication relying on the Multi Paxos protocol.
+
 # MADE BY #
 
 * Daniel Flamino (45465)
