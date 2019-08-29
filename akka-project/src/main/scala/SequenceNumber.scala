@@ -1,0 +1,1 @@
+case class SequenceNumber(processId:Int, counter:Int)
