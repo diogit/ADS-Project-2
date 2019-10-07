@@ -2,9 +2,9 @@
 
 ### Made by:
 
-* Daniel Flamino
+* [Daniel Flamino](https://github.com/DanielFlamino)
 * Diogo Silvério
-* Rita Macedo
+* [Rita Macedo](https://github.com/ritama)
 
 ### Folder Content:
 ```
