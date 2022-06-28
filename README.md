@@ -3,7 +3,7 @@
 ### Made by:
 
 * [Daniel Flamino](https://github.com/DanielFlamino)
-* Diogo Silvério
+* Diogo Silvério (Self)
 * [Rita Macedo](https://github.com/ritama)
 
 ### Folder Content:
